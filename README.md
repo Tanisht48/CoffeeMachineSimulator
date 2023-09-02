@@ -1,9 +1,11 @@
-<div align="center">
-  <img src="https://example.com/path-to-your-icon.png" alt="Coffee Machine Icon" width="64" height="64">
+<div style="text-align:center;">
+  <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/solid/coffee.svg" alt="Coffee Machine Icon" width="64" height="64">
 </div>
 
-
 # <p align="center">Coffee Machine Simulator</p>
+
+
+
 
 Welcome to the Coffee Machine Simulator! This Java program simulates a coffee machine where you can make coffee, manage ingredients, take money, view ingredient inventory, and analyze coffee sales.
 ## Getting Started
