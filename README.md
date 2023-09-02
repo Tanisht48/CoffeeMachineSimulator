@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="icon.ico" alt="Coffee Machine Icon" width="64" height="64">
-</p>
+<div align="center">
+  <img src="https://example.com/path-to-your-icon.png" alt="Coffee Machine Icon" width="64" height="64">
+</div>
+
 
 # <p align="center">Coffee Machine Simulator</p>
 
